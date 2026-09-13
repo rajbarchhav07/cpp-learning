@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
-
+// ****************Union**************
+// Union is a user defined datatype where all the members share the same memory location 
+// The important point is only one member can hold a meaningful value at a time  
 union Data
 {
   int i;

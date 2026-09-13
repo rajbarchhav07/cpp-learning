@@ -10,7 +10,7 @@ int main (){
     // scope means the area of the program where the variables can be used 
     // There are types of variables
     // 1. local variables  --- means the variable which are used and declare inside the function 
-    // 2. glocal variables ---- means the variable which are declare outside the fuction can 
+    // 2. global variables ---- means the variable which are declare outside the fuction can 
     // be used  everywhere in the program 
      
      int c = 20 ; // local variable

@@ -1,3 +1,5 @@
+// Header files ---- Header files are the prewritten declaration , functions , classes , libarires 
+// which can be used in our C++ program .
 // There are two types of header files ---
 // 1. System header files ---- comes with the compiler 
 #include<iostream>

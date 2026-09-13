@@ -2,7 +2,7 @@
 using namespace std ;
   int main() {
     // In c++ whenever the float and double value is passed and they are same 
-    // the compiler only recognized the double value not the float value 
+    // The compiler only recognized the double value not the float value 
     // In order to get float value and should recongnized by the compiler 
     // , we need to write like ex. 33.22f or 33.22F 
      float d = 33.22f ;

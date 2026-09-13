@@ -6,7 +6,7 @@ int main()
     
     int i, j;  // integer variables
     cout << " Enter the value of i and j :";
-    cin >> i >> j;   // taking input of the user 
+    cin >> i >> j;   // taking input from the user 
     cout << i << " " << j << endl;
     cout << " Raj " << endl;
     cout << "The sum is :" << i + j;

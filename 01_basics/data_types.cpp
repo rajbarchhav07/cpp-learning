@@ -5,7 +5,7 @@ using namespace std;
     // type to store that type of data i.e is known as datatype .
     // So there are three types of datatypes
     // 1. Built-in or permitive datatypes -- like int , float , char , double , bool
-    // 2. derivd datatypes  ---------------- array , pointer , function 
+    // 2. derived datatypes  ---------------- array , pointer , function 
     // 3. user defined datatypes ------------ struct , union , enum
     // Here are following built in datatypes implentation 
         

@@ -11,7 +11,7 @@ using namespace std;
     cout << " The value of local variable a is " << a << endl ;
  }
  int main (){
-     int a = 20 ;
+     int a = 30 ;
         cout << " The value of a is : "  << a << endl ; // here only the value of local variable 
          // will be printed according to the precedence 
          var();
